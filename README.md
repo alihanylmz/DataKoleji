@@ -1,4 +1,4 @@
-# DataKoleji
+# ALİHAN YILMAZ'S UNITS
 
 **By**: Alihan YILMAZ 
 
@@ -6,4 +6,4 @@
 
 **Date**: October, 2022
 
->- Here's Data College's stack of resources. !!
+>- Here's Alihan's stack of resources. !!
